@@ -1,0 +1,5 @@
+print("Enter the first numbers ")
+a = int(input())
+b = int(input("Enter the second numbers"))
+print("The sum of these numbers is ",a+b)
+input()
